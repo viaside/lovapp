@@ -10,7 +10,7 @@
 			This password is stored in another database. In this application, I used the database "PostgreSQL"
 			
 ## Features
-- Register.
-- browsing users.
-- redacting users.
-- put likes
+- 👌 Registration.
+- 👀 browsing users.
+- ☑️ changing user data.
+- ❤️ give "likes" to users.
