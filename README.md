@@ -8,3 +8,9 @@
 			There is also an administrator menu (to enter, you need to enter the password "Admin"), 
 			in it you can make changes to the user data. All data is stored in a database.
 			This password is stored in another database. In this application, I used the database "PostgreSQL"
+			
+## Features
+- Register.
+- browsing users.
+- redacting users.
+- put likes
